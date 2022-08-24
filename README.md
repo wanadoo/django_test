@@ -2,4 +2,4 @@
 
 Repo para probar django en python 2.7
 
-Author: Rafael Reyes
+Author: Rafael Reyespip 
